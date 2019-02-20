@@ -1,0 +1,8 @@
+{
+  "name": "Chief",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "bot.js",
+  "author": "Somebody",
+  "dependencies": {}
+}
